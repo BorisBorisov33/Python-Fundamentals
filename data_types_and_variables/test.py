@@ -1,6 +1,7 @@
-from decimal import Decimal
+# test = {'a', 'b', 'c', 'c'}
+#
+# print(test)
 
-a = 'test'
-b = "test"
-c = ''''test'''
-d = """"test"""
+
+person = {'Name': 'Boris', 'age': 32}
+print(person['Name'])
